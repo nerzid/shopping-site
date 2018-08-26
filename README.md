@@ -1,9 +1,10 @@
 This is a training project for me to learn and master skills on technologies;
-Back-end: [NodeJS](https://nodejs.org/en/), 
-Framework: [ExpressJS](https://expressjs.com/),  
-Authentication: [PassportJS ](http://www.passportjs.org/), 
-Database: [MongoDB](https://www.mongodb.com/),
-Template Engine: [PugJS](https://pugjs.org).
+
+- Back-end: [NodeJS](https://nodejs.org/en/), 
+- Framework: [ExpressJS](https://expressjs.com/),  
+- Authentication: [PassportJS ](http://www.passportjs.org/), 
+- Database: [MongoDB](https://www.mongodb.com/),
+- Template Engine: [PugJS](https://pugjs.org).
 
 It's not important but I use [Jetbrains WebStorm v2017.1](https://www.jetbrains.com/webstorm/) as IDE.
 
